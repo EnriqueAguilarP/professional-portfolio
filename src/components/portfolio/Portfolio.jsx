@@ -1,8 +1,8 @@
 import React from 'react'
 import './portfolio.css'
 import IM1 from '../../assets/portfolio1.jpg'
-import IM2 from '../../assets/portfolio1.jpg'
-import IM3 from '../../assets/portfolio1.jpg'
+import IM2 from '../../assets/portfolio2.jpg'
+import IM3 from '../../assets/portfolio3.jpg'
 import IM4 from '../../assets/portfolio4.jpg'
 import IM5 from '../../assets/portfolio5.jpg'
 import IM6 from '../../assets/portfolio6.jpg'
@@ -10,43 +10,40 @@ import IM6 from '../../assets/portfolio6.jpg'
 const data = [
   {id: 1,
     image: IM1,
-    title: 'Ecommerce Website',
-    tech: 'react, node, mongo',
-    github: 'https://github.com',
-    demo: 'https://restaurant-delta-sable.vercel.app/'
+    title: 'School Website',
+    tech: 'React, TypeScript, Django',
+    github: 'https://github.com/EnriqueAguilarP/school'
   },
   {id: 2,
     image: IM2,
     title: 'Recipe App',
-    tech: 'Next',
-    github: 'https://github.com',
-    demo: 'https://restaurant-delta-sable.vercel.app/'
+    tech: 'React, Next',
+    github: 'https://github.com/EnriqueAguilarP/recipe-app',
   },
   {id: 3,
     image: IM3,
-    title: 'Tiktok App',
-    tech: 'typescript',
-    github: 'https://github.com',
-    demo: 'https://restaurant-delta-sable.vercel.app/'
+    title: 'Restaurant Finder',
+    tech: 'Html, Css, JavaScript, React',
+    github: 'https://github.com/EnriqueAguilarP/ravenous'
   },
   {id: 4,
     image: IM4,
     title: 'Hotel Booking',
-    tech: 'html, css, javascript',
+    tech: 'Html, Css, Javascript',
     github: 'https://github.com/EnriqueAguilarP/hotel',
     demo: 'https://hotel-wood.vercel.app/'
   },
   {id: 5,
     image: IM5,
     title: 'React Calculator',
-    tech: 'html, css, javascript, react',
+    tech: 'Html, Css, Javascript, React',
     github: 'https://github.com/EnriqueAguilarP/calculadoraReact',
     demo: 'https://calculadora-react-five.vercel.app/'
   },
   {id: 6,
     image: IM6,
     title: 'Blog',
-    tech: 'html',
+    tech: 'Html, Css',
     github: 'https://github.com/EnriqueAguilarP/my_launchx_blog',
     demo: 'https://enriqueaguilarp.github.io/my_launchx_blog/'
   },
