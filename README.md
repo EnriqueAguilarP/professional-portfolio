@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+Hi, I'm Enrique Aguilar 👋
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I'm a frontend developer with +2 years of experience in creating responsive and interactive web applications using HTML, CSS, JavaScript, React, Next and Tailwind. Currently I'm working on backend-side with Node, Express, PostgreSQL, MongoDB, Python and Django
+My skills and tools 🛠️
 
-## Available Scripts
+    HTML5, CSS3, Tailwind
+    JavaScript (ES6+)
+    React, Redux, Next
+    RESTful APIs, Axios
+    Git, GitHub, VS Code
 
-In the project directory, you can run:
+My projects 💻
 
-### `npm start`
+Here are some of the projects that I'm proud of:
+Project 1: School Webpage
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+A simple yet elegant Engineering School landpage with Careers, Courses and a Language Center.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+    Built with React, Tailwind and Django.
+    React-router, redux and react-simple-typewriter are packages needed.
 
-### `npm test`
+Source Code
+Project 2: AI Art Prompt Website
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+A web app that allows you to share and discover prompts for AI Art.
 
-### `npm run build`
+    Built with Next, Tailwind CSS, MongoDB
+    Implemented server-side rendering and pagination
+    Mongoose, Next-auth and Bcrypt are packages needed.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Source Code
+Project 3: Restaurant Finder
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+A web app that shows restaurants near any location.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    Built with Html, Css, JavaScript and React
+    Used Yelp API. Apikey is required from www.yelp.com
 
-### `npm run eject`
+Source Code
+Project 4: Wood Hotel
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+A web app that allows users to view rooms, amenities, and make a reservation.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    Built with Html, Css and JavaScript.
+    Used EmailJs
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Source Code
+My contact details 📫
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You can reach me at:
 
-## Learn More
+    Email: enrique.prado207@gmail.com
+    Twitter: https://twitter.com/AguilarPrado21
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for visiting my portfolio! 😊

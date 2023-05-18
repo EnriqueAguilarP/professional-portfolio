@@ -16,7 +16,6 @@ const Experience = () => {
               <CiCircleCheck className='experience__icon'/>
               <div>
                 <h4>HTML</h4>
-                <small className='text-light'>+2 years</small>
               </div>
             </article>
 
@@ -24,7 +23,6 @@ const Experience = () => {
               <CiCircleCheck className='experience__icon'/>
               <div>
                 <h4>CSS</h4>
-                <small className='text-light'>+2 years</small>
               </div>
             </article>
 
@@ -32,7 +30,6 @@ const Experience = () => {
               <CiCircleCheck className='experience__icon'/>
               <div>
                 <h4>JavaScript</h4>
-                <small className='text-light'>+2 years</small>
               </div>
             </article>
 
@@ -40,7 +37,20 @@ const Experience = () => {
               <CiCircleCheck className='experience__icon'/>
               <div>
                 <h4>React</h4>
-                <small className='text-light'>+1 years</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <CiCircleCheck className='experience__icon'/>
+              <div>
+                <h4>Next</h4>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <CiCircleCheck className='experience__icon'/>
+              <div>
+                <h4>Tailwind</h4>
               </div>
             </article>
           </div>
@@ -53,7 +63,6 @@ const Experience = () => {
                 <CiDatabase className='experience__icon'/>
                 <div>
                   <h4>NodeJs</h4>
-                  <small className='text-light'>+1 years</small>
                 </div>
             </article>
 
@@ -61,7 +70,6 @@ const Experience = () => {
                 <CiDatabase className='experience__icon'/>
                 <div>
                   <h4>Express</h4>
-                  <small className='text-light'>+1 years</small>
                 </div>
             </article>
 
@@ -69,7 +77,6 @@ const Experience = () => {
                 <CiDatabase className='experience__icon'/>
                 <div>
                   <h4>PostgreSQL</h4>
-                  <small className='text-light'>+1 years</small>
                 </div>
             </article>
 
@@ -77,7 +84,20 @@ const Experience = () => {
                 <CiDatabase className='experience__icon'/>
                 <div>
                   <h4>Python</h4>
-                  <small className='text-light'>+2 years</small>
+                </div>
+            </article>
+
+            <article className="experience__details">
+                <CiDatabase className='experience__icon'/>
+                <div>
+                  <h4>Django</h4>
+                </div>
+            </article>
+
+            <article className="experience__details">
+                <CiDatabase className='experience__icon'/>
+                <div>
+                  <h4>MongoDB</h4>
                 </div>
             </article>
           </div>
